@@ -1,16 +1,23 @@
-<h1>
-  Hi 👋, I’m Prabhu Prasath.<br><br>
-  I work in Salesforce development, creating scalable and efficient solutions for customers on the Salesforce platform. ☁️<br><br>
+<h1>Hi 👋, I’m Prabhu Prasath.</h1>
+<p>
+  I work in Salesforce development, creating scalable and efficient solutions for customers on the Salesforce platform. ☁️
+  <br><br>
 
-  I specialize in:<br>
-  ⚙️ Automating business processes<br>
-  💻 Developing Apex and Lightning Web Components<br>
-  🔗 Integrating Salesforce with external systems<br>
-  🎨 Building user-friendly Salesforce applications<br>
-  📈 Transforming business requirements into reliable solutions<br><br>
+  I specialize in:
+  <br>
+  ⚙️ Automating business processes
+  <br>
+  💻 Developing Apex and Lightning Web Components
+  <br>
+  🔗 Integrating Salesforce with external systems
+  <br>
+  🎨 Building user-friendly Salesforce applications
+  <br>
+  📈 Transforming business requirements into reliable solutions
+  <br><br>
 
   I enjoy solving problems and helping teams work more effectively through Salesforce. 🚀
-</h1>
+</p>
 <p>A passionate Salesforce Developer ☁️😊</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>

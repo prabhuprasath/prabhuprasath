@@ -1,9 +1,8 @@
 <h1>Hi 👋, I’m Prabhu Prasath</h1>
 <p>
   I work in Salesforce development, creating scalable and efficient solutions for customers on the Salesforce platform. ☁️
-  <br>
+  
   I specialize in:
-  <br>
   ⚙️ Automating business processes
   <br>
   💻 Developing Apex and Lightning Web Components
